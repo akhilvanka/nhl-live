@@ -9,8 +9,8 @@ const mono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NHL Live",
-  description: "Live NHL game tracker",
+  title: "Live Sports",
+  description: "Live scores and stats for NHL, NBA, MLB, PGA, F1, and Soccer",
 };
 
 export default function RootLayout({
